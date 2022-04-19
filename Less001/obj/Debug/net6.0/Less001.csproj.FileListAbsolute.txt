@@ -1,0 +1,15 @@
+C:\Users\Apalkova\Desktop\Lessons\Less001\bin\Debug\net6.0\Less001.exe
+C:\Users\Apalkova\Desktop\Lessons\Less001\bin\Debug\net6.0\Less001.deps.json
+C:\Users\Apalkova\Desktop\Lessons\Less001\bin\Debug\net6.0\Less001.runtimeconfig.json
+C:\Users\Apalkova\Desktop\Lessons\Less001\bin\Debug\net6.0\Less001.dll
+C:\Users\Apalkova\Desktop\Lessons\Less001\bin\Debug\net6.0\Less001.pdb
+C:\Users\Apalkova\Desktop\Lessons\Less001\obj\Debug\net6.0\Less001.csproj.AssemblyReference.cache
+C:\Users\Apalkova\Desktop\Lessons\Less001\obj\Debug\net6.0\Less001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apalkova\Desktop\Lessons\Less001\obj\Debug\net6.0\Less001.AssemblyInfoInputs.cache
+C:\Users\Apalkova\Desktop\Lessons\Less001\obj\Debug\net6.0\Less001.AssemblyInfo.cs
+C:\Users\Apalkova\Desktop\Lessons\Less001\obj\Debug\net6.0\Less001.csproj.CoreCompileInputs.cache
+C:\Users\Apalkova\Desktop\Lessons\Less001\obj\Debug\net6.0\Less001.dll
+C:\Users\Apalkova\Desktop\Lessons\Less001\obj\Debug\net6.0\refint\Less001.dll
+C:\Users\Apalkova\Desktop\Lessons\Less001\obj\Debug\net6.0\Less001.pdb
+C:\Users\Apalkova\Desktop\Lessons\Less001\obj\Debug\net6.0\Less001.genruntimeconfig.cache
+C:\Users\Apalkova\Desktop\Lessons\Less001\obj\Debug\net6.0\ref\Less001.dll
